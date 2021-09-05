@@ -1,3 +1,3 @@
-# Study Css
+# Study C
 
-C, C++ tutorial
+C tutorial
